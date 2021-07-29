@@ -1,0 +1,17 @@
+# brainome/examples docker-compose for launching a jupyter notebook instance with brainome's examples
+#
+version: '3.1'
+
+services:
+  brainome_tutorials:
+    container_name: tutorials
+    image: brainome/tutorials:latest
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - 8888:8888
+    volumes:
+      - '.:/work'
+
