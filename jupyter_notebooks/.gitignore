@@ -1,0 +1,5 @@
+.daimensions.key
+*.py
+*.csv
+*.json
+.ipynb_checkpoints/

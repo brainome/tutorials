@@ -9,7 +9,7 @@ make build
 # Build and publish the container
 make release
 
-# Publish a container to AWS-ECR.
+# Publish a container to
 # This includes the login to the repo
 make publish
 
