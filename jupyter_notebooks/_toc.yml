@@ -1,4 +1,10 @@
 format: jb-article
-root: landing-page
+root: index
 sections:
 - file: brainome_101_Quick_Start
+- file: brainome_102_Using_CLI
+- file: brainome_103_Model_Selection
+- file: brainome_104_Using_Predictor
+- file: brainome_201_Measurements
+- file: brainome_202_Our_Models
+- file: brainome_203_Using_a_Predictor

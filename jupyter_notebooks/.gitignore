@@ -1,5 +1,5 @@
 .daimensions.key
-predictor.py
+*predictor*.py
 a.py
 *.csv
 report.json
