@@ -5,6 +5,21 @@ sections:
 - file: brainome_102_Using_CLI
 - file: brainome_103_Model_Selection
 - file: brainome_104_Using_Predictor
-- file: brainome_201_Measurements
-- file: brainome_202_Our_Models
-- file: brainome_203_Using_a_Predictor
+- file: brainome_200_Measurements
+- file: brainome_201_Capacity_Progression
+- file: brainome_202_MEC
+- file: brainome_203_Generalization
+- file: brainome_204_Pre-training_Ranking
+- file: brainome_300_Predictors
+- file: brainome_301_Using_Predictors_in_Python
+- file: brainome_302_Generating_Probabilities
+- file: brainome_303_ROC_Curves
+- file: brainome_400_Case_Studies
+- file: brainome_401_USPS
+- file: brainome_402_Credit_Card_Fraud
+- file: brainome_403_Time_Series
+- file: brainome_500_Deploying_Brainome
+- file: brainome_501_Json_Output
+- file: brainome_502_Measuring_Data_Drift
+- file: brainome_503_Understanding_Noise_Resilience
+
