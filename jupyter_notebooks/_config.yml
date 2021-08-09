@@ -2,4 +2,4 @@
 title: "Brainome Tutorials"
 logo: images/brainome_logo.png
 execute:
-  execute_notebooks: "no"
+  execute_notebooks: "off"
