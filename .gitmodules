@@ -1,0 +1,3 @@
+[submodule "jupyter_notebooks/reporting"]
+	path = jupyter_notebooks/reporting
+	url = https://github.com/brainome/reporting.git

@@ -15,6 +15,7 @@ You can run a live notebook service by executing these few commands:
 
 ### Requirements
 * Docker is required.
+  * Docker Desktop has compose built in, so use `docker compose` instead.
 * Docker Compose can be installed via [these instructions](https://docs.docker.com/compose/install/)
 
 `sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
