@@ -2,7 +2,8 @@
 *predictor*.py
 a.py
 *.csv
-report.json
+*.json
+*.txt
 .ipynb_checkpoints/
 _build
 __pycache__
