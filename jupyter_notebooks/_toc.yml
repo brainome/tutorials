@@ -1,25 +1,34 @@
 format: jb-article
-root: index
+root: brainome_100_tutorials
 sections:
 - file: brainome_101_Quick_Start
 - file: brainome_102_Using_CLI
 - file: brainome_103_Model_Selection
 - file: brainome_104_Using_Predictor
+- file: brainome_105_Sourcing_Your_Data_Set
+- file: brainome_106_Describe_Your_CSV
 - file: brainome_200_Measurements
-- file: brainome_201_Capacity_Progression
-- file: brainome_202_MEC
-- file: brainome_203_Generalization
-- file: brainome_204_Pre-training_Ranking
-- file: brainome_300_Predictors
+- file: brainome_201_Data_Suffiency
+#- file: brainome_202_Improving_Learnability
+- file: brainome_203_Right_Sizing_Data_Sets
+- file: brainome_204_How_Smart_Is_My_Model
+- file: brainome_205_Detecting_Data_Drift
+#- file: brainome_206_Generalization
+#- file: brainome_207_Ranking_Features
+#- file: brainome_208_Advanced_Ranking
+#- file: brainome_210_High_Dimensionality
+#- file: brainome_211_Measuring_Bias
+#- file: brainome_212_Unbalanced_Data
+- file: brainome_300_Advanced_Features
 - file: brainome_301_Using_Predictors_in_Python
 - file: brainome_302_Generating_Probabilities
-- file: brainome_303_ROC_Curves
+- file: brainome_303_Predictor_Json_Measurements
+#- file: brainome_303_ROC_Curves
 - file: brainome_400_Case_Studies
-- file: brainome_401_USPS
-- file: brainome_402_Credit_Card_Fraud
-- file: brainome_403_Time_Series
+#- file: brainome_401_USPS
+#- file: brainome_402_Credit_Card_Fraud
+#- file: brainome_403_Time_Series
 - file: brainome_500_Deploying_Brainome
 - file: brainome_501_Json_Output
-- file: brainome_502_Measuring_Data_Drift
-- file: brainome_503_Understanding_Noise_Resilience
+
 
